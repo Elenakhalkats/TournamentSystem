@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5X7Hq0EqxfnSWJI1UMqtByYsULIeC9e4wpq4JJZlyBo=",
+  "Source": "TournamentSystem.WebApi",
+  "BasePath": "_content/TournamentSystem.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

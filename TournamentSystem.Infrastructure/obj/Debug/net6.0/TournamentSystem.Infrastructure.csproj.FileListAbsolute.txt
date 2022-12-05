@@ -1,0 +1,17 @@
+C:\Users\E.Akhalkatsi\Desktop\PashaTasks\TournamentSystem\TournamentSystem.Infrastructure\bin\Debug\net6.0\TournamentSystem.Infrastructure.deps.json
+C:\Users\E.Akhalkatsi\Desktop\PashaTasks\TournamentSystem\TournamentSystem.Infrastructure\bin\Debug\net6.0\TournamentSystem.Infrastructure.dll
+C:\Users\E.Akhalkatsi\Desktop\PashaTasks\TournamentSystem\TournamentSystem.Infrastructure\bin\Debug\net6.0\TournamentSystem.Infrastructure.pdb
+C:\Users\E.Akhalkatsi\Desktop\PashaTasks\TournamentSystem\TournamentSystem.Infrastructure\obj\Debug\net6.0\TournamentSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\E.Akhalkatsi\Desktop\PashaTasks\TournamentSystem\TournamentSystem.Infrastructure\obj\Debug\net6.0\TournamentSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E.Akhalkatsi\Desktop\PashaTasks\TournamentSystem\TournamentSystem.Infrastructure\obj\Debug\net6.0\TournamentSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\E.Akhalkatsi\Desktop\PashaTasks\TournamentSystem\TournamentSystem.Infrastructure\obj\Debug\net6.0\TournamentSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\E.Akhalkatsi\Desktop\PashaTasks\TournamentSystem\TournamentSystem.Infrastructure\obj\Debug\net6.0\TournamentSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\E.Akhalkatsi\Desktop\PashaTasks\TournamentSystem\TournamentSystem.Infrastructure\obj\Debug\net6.0\TournamentSystem.Infrastructure.dll
+C:\Users\E.Akhalkatsi\Desktop\PashaTasks\TournamentSystem\TournamentSystem.Infrastructure\obj\Debug\net6.0\refint\TournamentSystem.Infrastructure.dll
+C:\Users\E.Akhalkatsi\Desktop\PashaTasks\TournamentSystem\TournamentSystem.Infrastructure\obj\Debug\net6.0\TournamentSystem.Infrastructure.pdb
+C:\Users\E.Akhalkatsi\Desktop\PashaTasks\TournamentSystem\TournamentSystem.Infrastructure\obj\Debug\net6.0\ref\TournamentSystem.Infrastructure.dll
+C:\Users\E.Akhalkatsi\Desktop\PashaTasks\TournamentSystem\TournamentSystem.Infrastructure\bin\Debug\net6.0\TournamentSystem.Infrastructure.runtimeconfig.json
+C:\Users\E.Akhalkatsi\Desktop\PashaTasks\TournamentSystem\TournamentSystem.Infrastructure\obj\Debug\net6.0\TournamentSystem.Infrastructure.genruntimeconfig.cache
+C:\Users\E.Akhalkatsi\Desktop\PashaTasks\TournamentSystem\TournamentSystem.Infrastructure\bin\Debug\net6.0\TournamentSystem.Application.dll
+C:\Users\E.Akhalkatsi\Desktop\PashaTasks\TournamentSystem\TournamentSystem.Infrastructure\bin\Debug\net6.0\TournamentSystem.Application.pdb
+C:\Users\E.Akhalkatsi\Desktop\PashaTasks\TournamentSystem\TournamentSystem.Infrastructure\obj\Debug\net6.0\TournamentSystem.Infrastructure.csproj.CopyComplete

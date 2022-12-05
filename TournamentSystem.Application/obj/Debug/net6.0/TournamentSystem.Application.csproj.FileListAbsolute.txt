@@ -1,0 +1,14 @@
+C:\Users\E.Akhalkatsi\Desktop\PashaTasks\TournamentSystem\TournamentSystem.Application\bin\Debug\net6.0\TournamentSystem.Application.deps.json
+C:\Users\E.Akhalkatsi\Desktop\PashaTasks\TournamentSystem\TournamentSystem.Application\bin\Debug\net6.0\TournamentSystem.Application.dll
+C:\Users\E.Akhalkatsi\Desktop\PashaTasks\TournamentSystem\TournamentSystem.Application\bin\Debug\net6.0\TournamentSystem.Application.pdb
+C:\Users\E.Akhalkatsi\Desktop\PashaTasks\TournamentSystem\TournamentSystem.Application\obj\Debug\net6.0\TournamentSystem.Application.csproj.AssemblyReference.cache
+C:\Users\E.Akhalkatsi\Desktop\PashaTasks\TournamentSystem\TournamentSystem.Application\obj\Debug\net6.0\TournamentSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E.Akhalkatsi\Desktop\PashaTasks\TournamentSystem\TournamentSystem.Application\obj\Debug\net6.0\TournamentSystem.Application.AssemblyInfoInputs.cache
+C:\Users\E.Akhalkatsi\Desktop\PashaTasks\TournamentSystem\TournamentSystem.Application\obj\Debug\net6.0\TournamentSystem.Application.AssemblyInfo.cs
+C:\Users\E.Akhalkatsi\Desktop\PashaTasks\TournamentSystem\TournamentSystem.Application\obj\Debug\net6.0\TournamentSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\E.Akhalkatsi\Desktop\PashaTasks\TournamentSystem\TournamentSystem.Application\obj\Debug\net6.0\TournamentSystem.Application.dll
+C:\Users\E.Akhalkatsi\Desktop\PashaTasks\TournamentSystem\TournamentSystem.Application\obj\Debug\net6.0\refint\TournamentSystem.Application.dll
+C:\Users\E.Akhalkatsi\Desktop\PashaTasks\TournamentSystem\TournamentSystem.Application\obj\Debug\net6.0\TournamentSystem.Application.pdb
+C:\Users\E.Akhalkatsi\Desktop\PashaTasks\TournamentSystem\TournamentSystem.Application\obj\Debug\net6.0\ref\TournamentSystem.Application.dll
+C:\Users\E.Akhalkatsi\Desktop\PashaTasks\TournamentSystem\TournamentSystem.Application\bin\Debug\net6.0\TournamentSystem.Application.runtimeconfig.json
+C:\Users\E.Akhalkatsi\Desktop\PashaTasks\TournamentSystem\TournamentSystem.Application\obj\Debug\net6.0\TournamentSystem.Application.genruntimeconfig.cache
