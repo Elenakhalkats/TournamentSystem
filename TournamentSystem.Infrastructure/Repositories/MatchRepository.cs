@@ -31,7 +31,9 @@ public class MatchRepository : IMatchRepository
     public async Task<List<Match>> PlayRoundAsync(List<Team> teams, int tournamentId) 
     {
         var matches = new List<Match>();
-        var numOfTeams = teams.Count; 
+        var numOfTeams = teams.Count;
+
+        if (numOfTeams == 1) throw new TournamentDeniedException();
 
         for (int i = 0; i < numOfTeams - 1; i += 2)
         {

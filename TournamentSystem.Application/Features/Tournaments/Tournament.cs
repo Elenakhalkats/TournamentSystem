@@ -1,4 +1,5 @@
-﻿using TournamentSystem.Application.Features.Matches;
+﻿using Newtonsoft.Json;
+using TournamentSystem.Application.Features.Matches;
 using TournamentSystem.Application.Features.Teams;
 using TournamentSystem.Application.Primitive;
 
@@ -15,15 +16,13 @@ public sealed class Tournament : Entity<int>
 }
 public class GetTournament
 {
-    public GetTournament()
-    {
-
-    }
+    [JsonProperty("Id")]
     public int Id { get; set; }
     public DateTime? StartDate { get; set; }
     public DateTime? EndDate { get; set; }
     public int? WinnerTeamId { get; set; }
     public Team? WinnerTeam { get; set; }
+    [JsonProperty("Teams")]
     public List<GetTeam>? Teams { get; set; }
 }
 public class GetTournamentMatches

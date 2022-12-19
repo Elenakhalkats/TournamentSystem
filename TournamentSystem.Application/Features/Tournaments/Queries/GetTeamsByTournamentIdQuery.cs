@@ -26,7 +26,7 @@ public sealed record GetTeamsByTournamentIdQuery(int Id) : IRequest<GetTournamen
             var id = request.Id;
             if (id == default) throw new InvalidRequestException();
             var teams = await _teamRepository.GetTeamsByTournamentIdAsync(id);
-            //if (teams) throw new TeamNotFoundException();
+
             var tournament = await _tournamentRepository.GetTournamentByIdAsync(id);
             
             var res = _mapper.Map<GetTournament>(tournament);

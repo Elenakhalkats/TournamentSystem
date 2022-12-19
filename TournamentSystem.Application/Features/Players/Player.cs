@@ -6,26 +6,25 @@ namespace TournamentSystem.Application.Features.Players;
 
 public sealed class Player : Entity<int>
 {
-    public Player()
-    {
-    }
     public string Name { get; set; }
     public bool HasParticipated { get; set; }
     public int Rank { get; set; }
     public int? TeamId { get; set; }
     public Team? Team { get; set; }
-}
-public class NewPlayer
-{
-    public NewPlayer()
+    public Player()
     {
-        Name = Generator.RandomString(4).ToLower();
-        HasParticipated = default;
-        Rank = default;
+
     }
-    public string Name { get; set; }
-    public bool HasParticipated { get; set; }
-    public int Rank { get; set; }
+    public static Player Create()
+    {
+        var player = new Player
+        {
+            Name = Generator.RandomString(4).ToLower(),
+            HasParticipated = default,
+            Rank = default
+        };
+        return player;
+    }
 }
 public class GetPlayer
 {

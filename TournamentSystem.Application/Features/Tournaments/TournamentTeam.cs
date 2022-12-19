@@ -7,8 +7,6 @@ public sealed class TournamentTeam : Entity<int>
 {
     public TournamentTeam()
     {
-        //TournamentId = tournament.Id;
-        //TeamId = team.Id;
     }
 
     public int? TournamentId { get; set; }

@@ -15,7 +15,7 @@ public class TournamentsController : ControllerBase
     {
         _mediator = mediator;
     }
-    [HttpGet("GetPlayersByTournamentId")] 
+    [HttpGet("GetPlayersByTournamentId")]
     [Produces("application/json")]
     public async Task<IActionResult> GetPlayersByTournamentId([FromQuery] GetTeamsByTournamentIdQuery req)
     {

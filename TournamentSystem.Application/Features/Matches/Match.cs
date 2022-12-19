@@ -1,5 +1,4 @@
-﻿using System.ComponentModel;
-using TournamentSystem.Application.Features.Teams;
+﻿using TournamentSystem.Application.Features.Teams;
 using TournamentSystem.Application.Features.Tournaments;
 using TournamentSystem.Application.Primitive;
 
