@@ -4,6 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <_FunctionsSkipCleanOutput>true</_FunctionsSkipCleanOutput>
   </PropertyGroup>
 
 	<ItemGroup>
@@ -20,7 +21,7 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
     <PackageReference Include="Shouldly" Version="4.1.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
@@ -31,7 +32,7 @@
   </ItemGroup>
   
   <ItemGroup>
-    <!--<InternalsVisibleTo Include="TournamentSystem.UnitTests" />-->
-    <InternalsVisibleTo Include="TournamentSystem.IntegrationTests" />
+    <InternalsVisibleTo Include="TournamentSystem.UnitTests" />
+    <InternalsVisibleTo Include="TournamentSystem.Tests" />
 	</ItemGroup>
 </Project>

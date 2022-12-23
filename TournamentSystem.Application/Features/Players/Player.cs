@@ -11,10 +11,6 @@ public sealed class Player : Entity<int>
     public int Rank { get; set; }
     public int? TeamId { get; set; }
     public Team? Team { get; set; }
-    public Player()
-    {
-
-    }
     public static Player Create()
     {
         var player = new Player
@@ -28,10 +24,6 @@ public sealed class Player : Entity<int>
 }
 public class GetPlayer
 {
-    public GetPlayer()
-    {
-
-    }
     public int Id { get; set; }
     public string Name { get; set; }
     public bool HasParticipated { get; set; }

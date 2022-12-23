@@ -14,6 +14,16 @@ public sealed class TeamRepository : ITeamRepository
     {
         _context = context;
     }
+    public async Task<Team> GetPlayersByTeamIdTestAsync()
+    {
+        var team = new Team
+        {
+            Id = 232,
+            TeamName = "ETEYY",
+            Rank = 0
+        };
+        return team;
+    }
     public async Task<List<Team>> AddTeamsAsync(List<Team> createTeams)
     {
         await _context.Teams.AddRangeAsync(createTeams);

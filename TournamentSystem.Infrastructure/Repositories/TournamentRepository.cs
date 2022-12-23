@@ -19,6 +19,7 @@ public class TournamentRepository : ITournamentRepository
     {
         var res = await _context.Tournaments.FirstOrDefaultAsync(x => x.Id == Id);
         return res;
+
     }
     public async Task<int> AddTournamentTeamsAsync(Tournament Tournament, List<Team> Teams)
     {

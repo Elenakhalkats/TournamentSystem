@@ -2,7 +2,6 @@
 using MediatR;
 using TournamentSystem.Application.Exceptions;
 using TournamentSystem.Application.Interfaces.Repositories;
-using TournamentSystem.Application.ResponseModels;
 
 namespace TournamentSystem.Application.Features.Teams.Queries;
 public sealed record GetPlayersByTeamIdQuery(int Id) : IRequest<GetTeam>
@@ -20,7 +19,7 @@ public sealed record GetPlayersByTeamIdQuery(int Id) : IRequest<GetTeam>
         public async Task<GetTeam> Handle(GetPlayersByTeamIdQuery request, CancellationToken cancellationToken)
         {
             var id = request.Id;
-            if (id == default) throw new InvalidRequestException();
+            //if (id == default) throw new InvalidRequestException();
 
             var teamPlayers = await _teamRepository.GetPlayersByTeamIdAsync(id);
             var res = _mapper.Map<GetTeam>(teamPlayers);

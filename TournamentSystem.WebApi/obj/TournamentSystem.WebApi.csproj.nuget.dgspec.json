@@ -84,7 +84,7 @@
             },
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[13.0.2, )"
+              "version": "[11.0.2, )"
             }
           },
           "imports": [
@@ -183,7 +183,7 @@
             },
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[13.0.2, )"
+              "version": "[11.0.2, )"
             }
           },
           "imports": [
@@ -293,7 +293,7 @@
             },
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[13.0.2, )"
+              "version": "[11.0.2, )"
             },
             "Shouldly": {
               "target": "Package",

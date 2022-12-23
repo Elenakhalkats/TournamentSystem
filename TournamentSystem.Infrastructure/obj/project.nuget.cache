@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "BQN8mtNKEvKEVloVdDINU8/Ntt3TU63zbpCip/GnD98LViZmf9NIKRMK8Ag+xGT01++RJ2+92TdY/AECxFKpCg==",
+  "dgSpecHash": "DnJ56/jCxlQzrnEqAnE9XusOcHtCqv2MJ/n2hBWKMBNC5M2KihQ3LNHGVHRxeE6kqWdTyIJfuUqQsJ7bhMAeZQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\E.Akhalkatsi\\Desktop\\PashaTasks\\TournamentSystem\\TournamentSystem.Infrastructure\\TournamentSystem.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -55,7 +55,7 @@
     "C:\\Users\\E.Akhalkatsi\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\E.Akhalkatsi\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\E.Akhalkatsi\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
-    "C:\\Users\\E.Akhalkatsi\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\E.Akhalkatsi\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
     "C:\\Users\\E.Akhalkatsi\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\E.Akhalkatsi\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\E.Akhalkatsi\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",
