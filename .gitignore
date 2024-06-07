@@ -1,9 +1,9 @@
 # Ignore build outputs
-bin/
-obj/
+**/bin/
+**/obj/
 
 # Ignore package directories
-packages/
+**/packages/
 *.nupkg
 
 # Ignore Visual Studio temporary files, build results, and
@@ -63,6 +63,9 @@ $RECYCLE.BIN/
 
 # Web publish directory
 *.PublishProfiles/
+
+# NuGet
+*.nupkg
 
 # StyleCop
 StyleCopReport.xml
