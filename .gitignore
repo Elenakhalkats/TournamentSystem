@@ -12,8 +12,52 @@
 *.dll
 *.pdb
 
+# VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
 # Ignore NuGet packages directory
 packages/
+
+#Ignore files built by Visual Studio
+*.user
+*.aps
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+[Bb]in
+[Dd]ebug*/
+*.sbr
+obj/
+[Rr]elease*/
+_ReSharper*/
+[Tt]est[Rr]esult*
+.vs/
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+#Nuget packages folder
+packages/
+
+*.ttf
+*.woff
+*.eot
+*.svg
+*.otf
 
 # Ignore Node.js dependencies directory
 node_modules/
