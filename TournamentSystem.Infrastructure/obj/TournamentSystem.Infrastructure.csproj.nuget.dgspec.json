@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\E.Akhalkatsi\\Desktop\\PashaTasks\\TournamentSystem\\TournamentSystem.Infrastructure\\TournamentSystem.Infrastructure.csproj": {}
+    "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Infrastructure\\TournamentSystem.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\E.Akhalkatsi\\Desktop\\PashaTasks\\TournamentSystem\\TournamentSystem.Application\\TournamentSystem.Application.csproj": {
+    "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Application\\TournamentSystem.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\E.Akhalkatsi\\Desktop\\PashaTasks\\TournamentSystem\\TournamentSystem.Application\\TournamentSystem.Application.csproj",
+        "projectUniqueName": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Application\\TournamentSystem.Application.csproj",
         "projectName": "TournamentSystem.Application",
-        "projectPath": "C:\\Users\\E.Akhalkatsi\\Desktop\\PashaTasks\\TournamentSystem\\TournamentSystem.Application\\TournamentSystem.Application.csproj",
-        "packagesPath": "C:\\Users\\E.Akhalkatsi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\E.Akhalkatsi\\Desktop\\PashaTasks\\TournamentSystem\\TournamentSystem.Application\\obj\\",
+        "projectPath": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Application\\TournamentSystem.Application.csproj",
+        "packagesPath": "C:\\Users\\eakhalkatsi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\E.Akhalkatsi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\eakhalkatsi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -98,26 +103,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\E.Akhalkatsi\\Desktop\\PashaTasks\\TournamentSystem\\TournamentSystem.Infrastructure\\TournamentSystem.Infrastructure.csproj": {
+    "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Infrastructure\\TournamentSystem.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\E.Akhalkatsi\\Desktop\\PashaTasks\\TournamentSystem\\TournamentSystem.Infrastructure\\TournamentSystem.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Infrastructure\\TournamentSystem.Infrastructure.csproj",
         "projectName": "TournamentSystem.Infrastructure",
-        "projectPath": "C:\\Users\\E.Akhalkatsi\\Desktop\\PashaTasks\\TournamentSystem\\TournamentSystem.Infrastructure\\TournamentSystem.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\E.Akhalkatsi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\E.Akhalkatsi\\Desktop\\PashaTasks\\TournamentSystem\\TournamentSystem.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Infrastructure\\TournamentSystem.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\eakhalkatsi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\E.Akhalkatsi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\eakhalkatsi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -131,8 +150,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\E.Akhalkatsi\\Desktop\\PashaTasks\\TournamentSystem\\TournamentSystem.Application\\TournamentSystem.Application.csproj": {
-                "projectPath": "C:\\Users\\E.Akhalkatsi\\Desktop\\PashaTasks\\TournamentSystem\\TournamentSystem.Application\\TournamentSystem.Application.csproj"
+              "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Application\\TournamentSystem.Application.csproj": {
+                "projectPath": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Application\\TournamentSystem.Application.csproj"
               }
             }
           }
@@ -141,6 +160,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -197,12 +221,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

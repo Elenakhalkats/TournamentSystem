@@ -1,0 +1,517 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Application\\Features\\Teams\\Team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TournamentSystem.Application\\Features\\Teams\\Team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\tournamentsystem.application\\features\\teams\\commands\\generateteamscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tournamentsystem.application\\features\\teams\\commands\\generateteamscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\tournamentsystem.application\\features\\teams\\queries\\getplayersbyteamidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tournamentsystem.application\\features\\teams\\queries\\getplayersbyteamidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\tournamentsystem.infrastructure\\contexts\\tournamentsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tournamentsystem.infrastructure\\contexts\\tournamentsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\tournamentsystem.application\\extentions\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tournamentsystem.application\\extentions\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\tournamentsystem.unittests\\tournamentsystem.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tournamentsystem.unittests\\tournamentsystem.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\tournamentsystem.unittests\\generateteamsfortournamentcommandvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tournamentsystem.unittests\\generateteamsfortournamentcommandvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\tournamentsystem.tests\\queries\\getplayersbyteamidrequesthandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tournamentsystem.tests\\queries\\getplayersbyteamidrequesthandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\tournamentsystem.tests\\mocks\\mockteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tournamentsystem.tests\\mocks\\mockteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\tournamentsystem.application\\tournamentsystem.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tournamentsystem.application\\tournamentsystem.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\tournamentsystem.webapi\\tournamentsystem.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tournamentsystem.webapi\\tournamentsystem.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\tournamentsystem.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tournamentsystem.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\tournamentsystem.infrastructure\\repositories\\matchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tournamentsystem.infrastructure\\repositories\\matchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\tournamentsystem.infrastructure\\repositories\\playerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tournamentsystem.infrastructure\\repositories\\playerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\tournamentsystem.application\\exceptions\\teamexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tournamentsystem.application\\exceptions\\teamexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\tournamentsystem.application\\exceptions\\responsecode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tournamentsystem.application\\exceptions\\responsecode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\tournamentsystem.webapi\\controllers\\tournamentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tournamentsystem.webapi\\controllers\\tournamentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\tournamentsystem.application\\exceptions\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tournamentsystem.application\\exceptions\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\tournamentsystem.infrastructure\\repositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tournamentsystem.infrastructure\\repositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\tournamentsystem.webapi\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tournamentsystem.webapi\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\tournamentsystem.tests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tournamentsystem.tests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\tournamentsystem.application\\features\\matches\\commands\\playroundcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tournamentsystem.application\\features\\matches\\commands\\playroundcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\tournamentsystem.infrastructure\\repositories\\tournamentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tournamentsystem.infrastructure\\repositories\\tournamentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\tournamentsystem.application\\features\\players\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tournamentsystem.application\\features\\players\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\tournamentsystem.unittests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tournamentsystem.unittests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\tournamentsystem.unittests\\generatetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tournamentsystem.unittests\\generatetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\tournamentsystem.application\\features\\matches\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tournamentsystem.application\\features\\matches\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\tournamentsystem.application\\interfaces\\repositories\\imatchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tournamentsystem.application\\interfaces\\repositories\\imatchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\tournamentsystem.application\\features\\tournaments\\tournamentteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tournamentsystem.application\\features\\tournaments\\tournamentteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\tournamentsystem.application\\features\\tournaments\\commands\\addtournamentteamscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tournamentsystem.application\\features\\tournaments\\commands\\addtournamentteamscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1868876116:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1972725675:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Application\\Features\\Teams\\Team.cs",
+              "RelativeDocumentMoniker": "TournamentSystem.Application\\Features\\Teams\\Team.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Application\\Features\\Teams\\Team.cs",
+              "RelativeToolTip": "TournamentSystem.Application\\Features\\Teams\\Team.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAADwvxoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:04:47.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenerateTeamsCommand.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Application\\Features\\Teams\\Commands\\GenerateTeamsCommand.cs",
+              "RelativeDocumentMoniker": "TournamentSystem.Application\\Features\\Teams\\Commands\\GenerateTeamsCommand.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Application\\Features\\Teams\\Commands\\GenerateTeamsCommand.cs",
+              "RelativeToolTip": "TournamentSystem.Application\\Features\\Teams\\Commands\\GenerateTeamsCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:04:47.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetPlayersByTeamIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Application\\Features\\Teams\\Queries\\GetPlayersByTeamIdQuery.cs",
+              "RelativeDocumentMoniker": "TournamentSystem.Application\\Features\\Teams\\Queries\\GetPlayersByTeamIdQuery.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Application\\Features\\Teams\\Queries\\GetPlayersByTeamIdQuery.cs",
+              "RelativeToolTip": "TournamentSystem.Application\\Features\\Teams\\Queries\\GetPlayersByTeamIdQuery.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:04:47.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TournamentSystemContext.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Infrastructure\\Contexts\\TournamentSystemContext.cs",
+              "RelativeDocumentMoniker": "TournamentSystem.Infrastructure\\Contexts\\TournamentSystemContext.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Infrastructure\\Contexts\\TournamentSystemContext.cs",
+              "RelativeToolTip": "TournamentSystem.Infrastructure\\Contexts\\TournamentSystemContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:04:47.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mapper.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Application\\Extentions\\Mapper.cs",
+              "RelativeDocumentMoniker": "TournamentSystem.Application\\Extentions\\Mapper.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Application\\Extentions\\Mapper.cs",
+              "RelativeToolTip": "TournamentSystem.Application\\Extentions\\Mapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:04:47.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TournamentSystem.UnitTests.csproj",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.UnitTests\\TournamentSystem.UnitTests.csproj",
+              "RelativeDocumentMoniker": "TournamentSystem.UnitTests\\TournamentSystem.UnitTests.csproj",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.UnitTests\\TournamentSystem.UnitTests.csproj",
+              "RelativeToolTip": "TournamentSystem.UnitTests\\TournamentSystem.UnitTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000778|",
+              "WhenOpened": "2024-06-07T10:04:47.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenerateTeamsForTournamentCommandValidatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.UnitTests\\GenerateTeamsForTournamentCommandValidatorTests.cs",
+              "RelativeDocumentMoniker": "TournamentSystem.UnitTests\\GenerateTeamsForTournamentCommandValidatorTests.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.UnitTests\\GenerateTeamsForTournamentCommandValidatorTests.cs",
+              "RelativeToolTip": "TournamentSystem.UnitTests\\GenerateTeamsForTournamentCommandValidatorTests.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA+wCMAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:04:47.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetPlayersByTeamIdRequestHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Tests\\Queries\\GetPlayersByTeamIdRequestHandlerTests.cs",
+              "RelativeDocumentMoniker": "TournamentSystem.Tests\\Queries\\GetPlayersByTeamIdRequestHandlerTests.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Tests\\Queries\\GetPlayersByTeamIdRequestHandlerTests.cs",
+              "RelativeToolTip": "TournamentSystem.Tests\\Queries\\GetPlayersByTeamIdRequestHandlerTests.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:04:47.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MockTeamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Tests\\Mocks\\MockTeamRepository.cs",
+              "RelativeDocumentMoniker": "TournamentSystem.Tests\\Mocks\\MockTeamRepository.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Tests\\Mocks\\MockTeamRepository.cs",
+              "RelativeToolTip": "TournamentSystem.Tests\\Mocks\\MockTeamRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwBgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:04:47.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TournamentSystem.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Application\\TournamentSystem.Application.csproj",
+              "RelativeDocumentMoniker": "TournamentSystem.Application\\TournamentSystem.Application.csproj",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Application\\TournamentSystem.Application.csproj",
+              "RelativeToolTip": "TournamentSystem.Application\\TournamentSystem.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-07T10:04:47.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TournamentSystem.WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.WebApi\\TournamentSystem.WebApi.csproj",
+              "RelativeDocumentMoniker": "TournamentSystem.WebApi\\TournamentSystem.WebApi.csproj",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.WebApi\\TournamentSystem.WebApi.csproj",
+              "RelativeToolTip": "TournamentSystem.WebApi\\TournamentSystem.WebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003627|",
+              "WhenOpened": "2024-06-07T10:04:47.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "TournamentSystem.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.WebApi\\Program.cs",
+              "RelativeToolTip": "TournamentSystem.WebApi\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABQAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:04:47.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MatchRepository.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Infrastructure\\Repositories\\MatchRepository.cs",
+              "RelativeDocumentMoniker": "TournamentSystem.Infrastructure\\Repositories\\MatchRepository.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Infrastructure\\Repositories\\MatchRepository.cs",
+              "RelativeToolTip": "TournamentSystem.Infrastructure\\Repositories\\MatchRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:04:47.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlayerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Infrastructure\\Repositories\\PlayerRepository.cs",
+              "RelativeDocumentMoniker": "TournamentSystem.Infrastructure\\Repositories\\PlayerRepository.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Infrastructure\\Repositories\\PlayerRepository.cs",
+              "RelativeToolTip": "TournamentSystem.Infrastructure\\Repositories\\PlayerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:04:47.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TeamExceptions.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Application\\Exceptions\\TeamExceptions.cs",
+              "RelativeDocumentMoniker": "TournamentSystem.Application\\Exceptions\\TeamExceptions.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Application\\Exceptions\\TeamExceptions.cs",
+              "RelativeToolTip": "TournamentSystem.Application\\Exceptions\\TeamExceptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:04:47.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ResponseCode.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Application\\Exceptions\\ResponseCode.cs",
+              "RelativeDocumentMoniker": "TournamentSystem.Application\\Exceptions\\ResponseCode.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Application\\Exceptions\\ResponseCode.cs",
+              "RelativeToolTip": "TournamentSystem.Application\\Exceptions\\ResponseCode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:04:47.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TournamentsController.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.WebApi\\Controllers\\TournamentsController.cs",
+              "RelativeDocumentMoniker": "TournamentSystem.WebApi\\Controllers\\TournamentsController.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.WebApi\\Controllers\\TournamentsController.cs",
+              "RelativeToolTip": "TournamentSystem.WebApi\\Controllers\\TournamentsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwDEAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:04:47.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppException.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Application\\Exceptions\\AppException.cs",
+              "RelativeDocumentMoniker": "TournamentSystem.Application\\Exceptions\\AppException.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Application\\Exceptions\\AppException.cs",
+              "RelativeToolTip": "TournamentSystem.Application\\Exceptions\\AppException.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAcwBQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:04:47.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TeamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Infrastructure\\Repositories\\TeamRepository.cs",
+              "RelativeDocumentMoniker": "TournamentSystem.Infrastructure\\Repositories\\TeamRepository.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Infrastructure\\Repositories\\TeamRepository.cs",
+              "RelativeToolTip": "TournamentSystem.Infrastructure\\Repositories\\TeamRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwBoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:04:47.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TeamsController.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.WebApi\\Controllers\\TeamsController.cs",
+              "RelativeDocumentMoniker": "TournamentSystem.WebApi\\Controllers\\TeamsController.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.WebApi\\Controllers\\TeamsController.cs",
+              "RelativeToolTip": "TournamentSystem.WebApi\\Controllers\\TeamsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:04:47.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Tests\\Usings.cs",
+              "RelativeDocumentMoniker": "TournamentSystem.Tests\\Usings.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Tests\\Usings.cs",
+              "RelativeToolTip": "TournamentSystem.Tests\\Usings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:04:47.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PlayRoundCommand.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Application\\Features\\Matches\\Commands\\PlayRoundCommand.cs",
+              "RelativeDocumentMoniker": "TournamentSystem.Application\\Features\\Matches\\Commands\\PlayRoundCommand.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Application\\Features\\Matches\\Commands\\PlayRoundCommand.cs",
+              "RelativeToolTip": "TournamentSystem.Application\\Features\\Matches\\Commands\\PlayRoundCommand.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:04:47.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TournamentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Infrastructure\\Repositories\\TournamentRepository.cs",
+              "RelativeDocumentMoniker": "TournamentSystem.Infrastructure\\Repositories\\TournamentRepository.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Infrastructure\\Repositories\\TournamentRepository.cs",
+              "RelativeToolTip": "TournamentSystem.Infrastructure\\Repositories\\TournamentRepository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwBIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:04:47.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Application\\Features\\Players\\Player.cs",
+              "RelativeDocumentMoniker": "TournamentSystem.Application\\Features\\Players\\Player.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Application\\Features\\Players\\Player.cs",
+              "RelativeToolTip": "TournamentSystem.Application\\Features\\Players\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:04:47.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.UnitTests\\Usings.cs",
+              "RelativeDocumentMoniker": "TournamentSystem.UnitTests\\Usings.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.UnitTests\\Usings.cs",
+              "RelativeToolTip": "TournamentSystem.UnitTests\\Usings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:04:47.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GenerateTests.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.UnitTests\\GenerateTests.cs",
+              "RelativeDocumentMoniker": "TournamentSystem.UnitTests\\GenerateTests.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.UnitTests\\GenerateTests.cs",
+              "RelativeToolTip": "TournamentSystem.UnitTests\\GenerateTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:04:47.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Match.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Application\\Features\\Matches\\Match.cs",
+              "RelativeDocumentMoniker": "TournamentSystem.Application\\Features\\Matches\\Match.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Application\\Features\\Matches\\Match.cs",
+              "RelativeToolTip": "TournamentSystem.Application\\Features\\Matches\\Match.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:04:47.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IMatchRepository.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Application\\Interfaces\\Repositories\\IMatchRepository.cs",
+              "RelativeDocumentMoniker": "TournamentSystem.Application\\Interfaces\\Repositories\\IMatchRepository.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Application\\Interfaces\\Repositories\\IMatchRepository.cs",
+              "RelativeToolTip": "TournamentSystem.Application\\Interfaces\\Repositories\\IMatchRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:04:47.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TournamentTeam.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Application\\Features\\Tournaments\\TournamentTeam.cs",
+              "RelativeDocumentMoniker": "TournamentSystem.Application\\Features\\Tournaments\\TournamentTeam.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Application\\Features\\Tournaments\\TournamentTeam.cs",
+              "RelativeToolTip": "TournamentSystem.Application\\Features\\Tournaments\\TournamentTeam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:04:47.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AddTournamentTeamsCommand.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Application\\Features\\Tournaments\\Commands\\AddTournamentTeamsCommand.cs",
+              "RelativeDocumentMoniker": "TournamentSystem.Application\\Features\\Tournaments\\Commands\\AddTournamentTeamsCommand.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Application\\Features\\Tournaments\\Commands\\AddTournamentTeamsCommand.cs",
+              "RelativeToolTip": "TournamentSystem.Application\\Features\\Tournaments\\Commands\\AddTournamentTeamsCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:04:47.682Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1565,19 +1565,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\E.Akhalkatsi\\.nuget\\packages\\": {}
+    "C:\\Users\\eakhalkatsi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\E.Akhalkatsi\\Desktop\\PashaTasks\\TournamentSystem\\TournamentSystem.Application\\TournamentSystem.Application.csproj",
+      "projectUniqueName": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Application\\TournamentSystem.Application.csproj",
       "projectName": "TournamentSystem.Application",
-      "projectPath": "C:\\Users\\E.Akhalkatsi\\Desktop\\PashaTasks\\TournamentSystem\\TournamentSystem.Application\\TournamentSystem.Application.csproj",
-      "packagesPath": "C:\\Users\\E.Akhalkatsi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\E.Akhalkatsi\\Desktop\\PashaTasks\\TournamentSystem\\TournamentSystem.Application\\obj\\",
+      "projectPath": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Application\\TournamentSystem.Application.csproj",
+      "packagesPath": "C:\\Users\\eakhalkatsi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\eakhalkatsi\\Desktop\\TournamentSystem\\TournamentSystem.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\E.Akhalkatsi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\eakhalkatsi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1597,6 +1597,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -1661,13 +1666,39 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.29, 6.0.29]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.29, 6.0.29]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.29, 6.0.29]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Newtonsoft.Json' 11.0.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-5crp-9r3c-p9vr",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

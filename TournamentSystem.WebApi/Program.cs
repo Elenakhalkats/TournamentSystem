@@ -32,7 +32,7 @@ builder.Services.AddDbContext<TournamentSystemContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("TournamentSystemDB"));
 });
-
+//comment
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
