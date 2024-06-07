@@ -1,3 +1,11 @@
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore package directories
+packages/
+*.nupkg
+
 # Ignore Visual Studio temporary files, build results, and
 # folder-based project configuration
 **/ipch/
@@ -42,20 +50,9 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# Ignore build outputs
-bin/
-obj/
-
-# Ignore package directories
-packages/
-*.nupkg
-# Uncomment if necessary however generally it will be regenerated as part of restore
-#!packages/repositories.config
-
 # Ignore project temporary files
 *.tmp
 *.tmp_proj
-*.log
 *.vspscc
 *.vssscc
 ._*
@@ -66,12 +63,6 @@ packages/
 
 # Web publish directory
 *.PublishProfiles/
-
-# NuGet
-*.nupkg
-# NuGet packages folder should be ignored when checking in source code
-# if using NuGet Package Restore.
-# *.nupkg is not recommended as it stores the package in source control.
 
 # StyleCop
 StyleCopReport.xml
